@@ -23,10 +23,21 @@ Button(root, text = "1").grid(row = 4, column = 2)
 Button(root, text = "AC").grid(row = 5, column = 0)
 Button(root, text = "0").grid(row = 5, column = 1)
 Button(root, text = "=").grid(row = 5, column = 2)
+
 Button(root, text = "+").grid(row = 2, column = 3)
 Button(root, text = "-").grid(row = 3, column = 3)
 Button(root, text = "*").grid(row = 4, column = 3)
 Button(root, text = "/").grid(row = 5, column = 3)
+
+Button(root, text = "pi").grid(row = 2, column = 4)
+Button(root, text = "%").grid(row = 3, column = 4)
+Button(root, text = "(").grid(row = 4, column = 4)
+Button(root, text = "exp").grid(row = 5, column = 4)
+
+Button(root, text = "<-").grid(row = 2, column = 5)
+Button(root, text = "x!").grid(row = 3, column = 5)
+Button(root, text = ")").grid(row = 4, column = 5)
+Button(root, text = "^2").grid(row = 5, column = 5)
 
 root.mainloop()
 
