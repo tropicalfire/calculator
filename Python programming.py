@@ -6,6 +6,23 @@ from turtle import clear
 root = Tk()
 root.title("Calculator")
 
+#adding a few lines of comments
+#adding a few lines of comments
+#adding a few lines of comments
+#adding a few lines of comments
+#adding a few lines of comments
+#adding a few lines of comments
+#adding a few lines of comments
+#adding a few lines of comments
+#adding a few lines of comments
+#adding a few lines of comments
+#adding a few lines of comments
+#adding a few lines of comments
+#adding a few lines of comments
+#adding a few lines of comments
+#adding a few lines of comments
+
+
 #get user input and place it in the text field
 i=0
 def get_variables(number):
